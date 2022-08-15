@@ -1,6 +1,6 @@
 import React from "react";
 import { render, screen } from "@testing-library/react";
-import Formulario from "./Formulario";
+import Formulario from "../components/Formulario/Formulario";
 
 test("When input is empty, submit button should be disabled", () => {
   render(<Formulario />);
