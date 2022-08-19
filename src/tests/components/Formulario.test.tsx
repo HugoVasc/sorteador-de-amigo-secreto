@@ -1,6 +1,6 @@
 import React from "react";
 import { act, fireEvent, render, screen } from "@testing-library/react";
-import Formulario from "../components/Formulario/Formulario";
+import Formulario from "../../components/Formulario/Formulario";
 import { RecoilRoot } from "recoil";
 
 describe("comportamento do Formulario.tsx", () => {
