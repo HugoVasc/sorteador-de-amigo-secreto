@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Projeto elaborado com base no curso React: testando os seus componentes da plataforma Alura
+
+O projeto foi realizado ao longo das aulas e por fim, foi publicado através da plataforma Vercel e está disponível através do link [https://sorteador-de-amigo-secreto-b8kb6d5e8-hugovasc.vercel.app/](https://sorteador-de-amigo-secreto-b8kb6d5e8-hugovasc.vercel.app/)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
